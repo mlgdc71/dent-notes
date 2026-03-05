@@ -2,7 +2,7 @@
 
 ---
 #readit
-[[TERM MASTER]]
+[[D20 TERM MASTER]]
 ### 1. Dental and Oral Diseases
 
 - **Definition:** Pathological conditions affecting the hard and soft tissues of the mouth, including the teeth, gingiva (gums), supporting bone, and oral mucosa.
@@ -41,12 +41,12 @@
         
     - **Primary vs. Permanent:** The transition from the "baby" teeth (deciduous) to the "adult" teeth.
         
-    - **==Chronology:==** The typical ages at which specific teeth erupt, which is vital for assessing a child's development and planning orthodontic or restorative care.
+    - **==Chronology:==** The typical ages at which specific teeth **erupt**, which is vital for assessing a child's development and planning orthodontic or restorative care.
         
 
 ### 4. Maintaining a Healthy Oral Cavity
 
-- **Definition:** The practice of preventive dentistry to prevent the onset, or stop the progression, of oral diseases.
+- **Definition:** The practice of **preventive dentistry** to prevent the onset, or stop the progression, of oral diseases.
     
 - **Course Context:** This involves **Biofilm Management**. You will study:
     

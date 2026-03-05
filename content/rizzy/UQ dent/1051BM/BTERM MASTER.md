@@ -1,0 +1,4 @@
+- signal transduction --> intracellular reactions
+- protein filaments --> actin and myosin
+- sliding filament theory
+- binding of specificl cellular receptors in endocrine system --> watch out
