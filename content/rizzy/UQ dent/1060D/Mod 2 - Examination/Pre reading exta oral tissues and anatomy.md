@@ -2,7 +2,7 @@
 - Recognizing what is **normal** versus **not normal** in a patient is fundamental in healthcare.
 - Developing this skill aids in accurate **assessment**, **diagnosis**, and effective **treatment planning**.
 
-# [[Anatomy]]
+# [[UQ dent/1020D/Module 1/1.1/Anatomy]]
 - The **oblique plane** is at an angle and not aligned with the main anatomical planes.
 - "Coronal" is another word for "frontal"
 
