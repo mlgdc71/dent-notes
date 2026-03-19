@@ -10,6 +10,15 @@
 - swelling
 - rash
 
+# Communication Skills
+Enhances 
+- **patient care**, 
+- **satisfaction**,
+- **treatment success**.
+
+- helps patients express symptoms clearly, aiding in accurate diagnosis
+- fosters trusting relationship between patient and dentist
+- prevents misunderstanding and improves compliance
 # Co-existing Pain
 e.g. **headache** + **fibromyalgia**
 

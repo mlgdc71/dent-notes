@@ -15,6 +15,8 @@ The LARGEST --> is parotid gland (most prominent and widest)
 # Gingiva
 >Healthy gingiva is characterized by **pink** color, normal size, firm attachment, no bleeding or exudate, and well-defined architecture.
 
+# muco gingival junction
+--> border between gingiva and mucous membrane
 # Borders
 ## Posterior
 MAXILLA

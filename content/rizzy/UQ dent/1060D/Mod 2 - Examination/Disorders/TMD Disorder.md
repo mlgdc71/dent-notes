@@ -3,3 +3,9 @@
 - These signs indicate possible joint ==dysfunction== or pathology.
 
 not anything else lol
+
+# exam diagnosis
+after extraoral exam[[Exam]]
+
+- Clicking and creaking sounds are caused by ==**displacement or catching of the join disc**==
+	- indicates functional abnormality in tmj

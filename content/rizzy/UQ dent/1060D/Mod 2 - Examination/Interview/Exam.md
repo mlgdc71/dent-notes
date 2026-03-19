@@ -18,6 +18,19 @@ WITH GAUZE
 
 This indicates healthy saliva production
 
+# ExtraOral
+## Palpation
+- During an oral exam, **palpation includes regions** such as 
+	- **musclulature**
+	- **TMJ,** 
+	- **lymph nodes,** 
+	- **mucosa,**
+	- **alveolar bone.**
+
+not the whole skull and neck --> only specific areas are examined to assess health
+## Facial Symmetry Assessment
+Checking for symmetry, scar tissue, muscle tone, jaw motion, paralysis, pigmentation, and signs of trauma or violence.
+
 # Intraoral
 WHATS THE ORDER #incomplete 
 # First --> skin/mucosa boundary
@@ -34,31 +47,40 @@ WHATS THE ORDER #incomplete
 COMMON FINDINGS
 1. Fordyce's granules --> sebaceous gland spots
 2. Linea Alba --> White Raised Lesion
+
+## Types of Mucosal Surfaces
+![[Pasted image 20260312195358.png]]
 ## Mucous gingival junction
 >It marks the boundary between the attached gingiva and the movable alveolar mucosa.
 
 ## Periodontal Exam
 #incomplete #memorise 
 ### Probing
+==**AIMS to measure sulcus depth**== and detect hard deposits for periodontal health assessment.
+
 Optimum Fore applied --> around 0.25 Newtons
 
 >too much force can damage tisues leading to inaccurate assessments
+
+### Interproximal surfaces
+- ==**Interproximal surfaces**== are the areas between adjacent teeth.
+- A **periodontal probe** is used to measure ==pocket depths== around teeth.
+
+- **Measuring interproximal surfaces directly** with a probe is generally **not possible**.
+
+Use the probe to **gently assess pocket depths** and **visualize the contact point** between teeth. For the interproximal surface contact areas, you often **estimate based on neighbouring measurements**
+
+## Tooth Mobility
+Tools:
+- dental mirror,
+- periodontal probe,
+- index finger.
 
 ## Tongue
 assessment of movement and surface
 
 - To view the **underside or sides of the tongue effectively,** ask the patient to move it ==laterally==.
 - Sometimes, gentle lateral movement with gauze can help stabilize or lift the tongue for better inspection.
-# ExtraOral
-## Palpation
-- During an oral exam, **palpation includes regions** such as 
-	- **muscles**
-	- **TMJ,** 
-	- **lymph nodes,** 
-	- **mucosa,**
-	- **alveolar bone.**
-## Facial Symmetry Assessment
-Checking for symmetry, scar tissue, muscle tone, jaw motion, paralysis, pigmentation, and signs of trauma or violence.
 
 # Scoring Systems
 --> Quantification of oral findings and assists in correlation to disease severity

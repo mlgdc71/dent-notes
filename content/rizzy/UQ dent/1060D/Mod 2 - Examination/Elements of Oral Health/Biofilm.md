@@ -7,4 +7,8 @@
 >biofilm is never dry
 
 - causes caries and periodontal disease
-	- also they have a lil fungi
+	- also they have a ==lil fungi==
+
+# Advanced Biofilm
+- Typically gram-negative and anaerobic
+	- MORE PATHOGENIC
