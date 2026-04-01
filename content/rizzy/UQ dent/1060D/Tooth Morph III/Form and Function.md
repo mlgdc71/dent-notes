@@ -1,0 +1,10 @@
+- smaller size than permanent
+- more prominent pulp chamber
+- more bulbous curve and margins are less round
+- more whiter
+- occlusal crown tapered towards central axis
+- roots are longer slender
+	- less dentine volume
+	- accomodate developing permanent teeth
+- exfoliation
+	- progressive root resorption
