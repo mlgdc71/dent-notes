@@ -8,3 +8,12 @@
 	- accomodate developing permanent teeth
 - exfoliation
 	- progressive root resorption
+	- making teeth more mobile
+- enamel
+	- less minerailized
+	- different rod structure
+	- thinner enamel layers
+	- less dentine
+- bucco-cervical ridge is more pronounced in primary molars
+	- contributing to shape and occlusal morphology
+- angles and margines are less round and more defined

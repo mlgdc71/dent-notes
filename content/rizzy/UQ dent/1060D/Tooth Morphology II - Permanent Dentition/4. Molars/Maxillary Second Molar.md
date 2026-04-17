@@ -1,5 +1,9 @@
 >the ONLY molar which the MD length is shorter or similar than BL
 
+HEART SHAPED
+oblique ridge
+NO CUSP OF CArABELLI
+
 ![[Screenshot 2026-03-31 at 5.43.30 pm.png]]
 __
 |   |

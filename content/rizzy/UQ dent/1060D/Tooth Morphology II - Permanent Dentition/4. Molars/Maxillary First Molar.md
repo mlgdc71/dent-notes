@@ -4,6 +4,20 @@
 
 ![[Pasted image 20260331180636.png]]
 where the cusp of careblli at
+
+central and distal fossa
+calcification begins at birth
+# ridges
+- oblique ridge
+	- db --> ml
+- mesial marginal ridge
+	- ridge on mesial edge of occlusal surface
+- distal marginal ridge
+	- ridge of distal edge
+
+![[Pasted image 20260402120725.png]]
+look at the cusp --> right
+darker grooves than [[Maxillary Second Molar]]
 # buccal
 - rectangular
 - visible buccal groove
