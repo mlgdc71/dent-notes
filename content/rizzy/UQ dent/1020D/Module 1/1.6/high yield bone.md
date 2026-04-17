@@ -13,7 +13,7 @@ _(Complete clusters from your entire flashcard set)_
 - Adult skeleton: **206 bones**.
 - axial --> 80
     
-
+![[Pasted image 20260417232523.png]]
 ## ⭐ 2. **Skeletal System Overview**
 
 ### **Axial skeleton (80 bones)**
@@ -74,8 +74,9 @@ _(Complete clusters from your entire flashcard set)_
 - **Spongy bone (trabecular)**
     
 - **Medullary cavity** (marrow)
-    
 
+![[Pasted image 20260417232539.png]]
+![[Pasted image 20260417232553.png]]
 ## ⭐ 5. **Bone Marrow**
 
 - **Red marrow** → blood cell formation
@@ -101,8 +102,17 @@ _(Complete clusters from your entire flashcard set)_
 - **Osteocytes** → trapped osteoblasts in lacunae; maintain bone
     
 - **Osteoclasts** → resorb bone; from hematopoietic lineage
-    
+bone histology
+    ![[Pasted image 20260417232618.png]]
 
+bone cell formation
+![[Pasted image 20260417232623.png]]
+
+osteoblast
+![[Pasted image 20260417232631.png]]
+
+osteoblast
+![[Screenshot 2026-04-17 at 11.26.38 pm.png]]
 ## ⭐ 8. **Osteoclast Activity**
 
 - Create **acidic environment** → dissolves minerals
@@ -112,10 +122,11 @@ _(Complete clusters from your entire flashcard set)_
 - Sit in **Howship’s lacunae**
     
 - Use **endocytosis** to take up bone fragments
-    
+
+
 
 ## ⭐ 9. **Compact Bone Microstructure**
-
+![[Screenshot 2026-04-17 at 11.28.06 pm.png]]
 - **Osteon (Haversian system)** = functional unit
     
 - **Haversian canal** → blood vessels + nerves

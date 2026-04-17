@@ -11,7 +11,11 @@ enamel and dentin junction during crown formation --> apex of root
 	- chewing surface rounded projection --> cusp
 	- apex of cusp
 
-mixed dentition --> 6 to 13
+mixed dentition --> week 6 to 13
+primary dentition initiation --> week 6 to 8 of gestation
+prenatal development --> 10 to 12 weeks for primary dentition
+
+mandible first molar 12 months
 
 pulp horn location knowledge helps with not drilling too deep
 - located in the pulp cavity
@@ -23,6 +27,9 @@ tooth eruption forces
 - eruptive root formation AND
 - intraosseous pressure
 	- from dental follicle and PDL
+	- also the actual formation of pdl
+		- SO BOTH
+- ![[Screenshot 2026-04-18 at 12.40.13 am.png]]
 
 eruption stages
 - pre eruptive
@@ -34,8 +41,15 @@ post eruptive movement --> changes in teeth after eruption including eruption, w
 
 Failure, germ formation, root apex
 - **Tooth Germ Formation:** Enamel originates from **ectoderm**, while dentin, pulp, cementum, and ligament originate from **ectomesenchyme**.
-- **Eruption Failure:** Primary failure in eruption may happen due to **lack of periodontal ligament** or ==**ankylosis**.==
+
+
+- **Eruption Failure:** Primary failure in eruption may happen due to ==**lack of periodontal ligament** or ==**ankylosis**.====
+	- **Ankylosis** is the fusion of cementum or dentin with alveolar bone, preventing eruption.
+
+
 - **Root Apex Function:** The **apex** is the tip of the root, where **nerve and blood supply exit** through the ==**apical foramen**.==
+	- root apex is tip of root
+	- exit for nerves and blood vessels thorugh the af
 
 root completion
 - 2-3 years after eruption
@@ -46,6 +60,8 @@ Teeth
 
 cementum is part of PDL
 - secures tooth in socket by anchoring PDL fibres
+- no decay
+
 
 - **Enamel** is the hard outer layer protecting the tooth.
 - **Dentin** forms the bulk beneath enamel.
@@ -68,3 +84,15 @@ rests of malassez
 "proliferative potential"
 
 Hertwigs epithelial root sheath --> root formation initiator
+
+resorption
+>the process of ==cementum deposition ==and root resorption occurring during the tooth's lifetime
+
+ATTRITION WORDING
+
+enamel development
+2 phases --> laying down enamel matrix then maturing
+- maturation after enamel
+
+tertiary dentin
+- block dentianl tubules
